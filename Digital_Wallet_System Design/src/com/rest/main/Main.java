@@ -45,7 +45,7 @@ public class Main {
                 transactionService
         );
 
-        System.out.println("Welcome to Digital Wallet and UPI Payment App!");
+        System.out.println("Welcome to The Digital Wallet and UPI Payment App!");
 
         cli.start();
     }
